@@ -5,7 +5,8 @@ This repository contains the official PyTorch implementation of the paper "**Ter
 ## 📢 News
 
 - **[2026-09-01]** The TFCL-Net repository is created.
-- **[Coming Soon]** The dataset access will be released. The codes for our existing methods, including [SGGWSeg](https://github.com/2022jiangjiazheng/SGGWSeg) and [GWSegNet](https://github.com/labiao/GWSegNet), are also publicly available, with detailed methodology to be described in forthcoming publications.
+- **[2026-09-01]** The codes for our recent works, including [SGGWSeg](https://github.com/2022jiangjiazheng/SGGWSeg) and [GWSegNet](https://github.com/labiao/GWSegNet), are also publicly available.
+- **[Coming Soon]** The dataset access will be released.
 
 ## 📝 Abstract
 
